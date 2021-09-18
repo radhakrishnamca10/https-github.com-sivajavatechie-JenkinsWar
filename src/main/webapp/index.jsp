@@ -1,6 +1,6 @@
 <html>
 <body>
-  <h2>Successfully Deployed War file....</h2>
+  <h2>Hurray...!!! Successfully Deployed War file to Tomcat Radhakrishna pathapati....</h2>
   <%
     double num = Math.random();
     if (num > 0.60) {
